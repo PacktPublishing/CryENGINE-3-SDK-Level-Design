@@ -1,0 +1,971 @@
+BackupNameAttachment=" Build(6666) 13 Apr 13 (22 54 03)"  -- used by backup system
+Log Started at 04/13/13 22:54:03
+Running 64 bit version
+Executable: C:\Users\Puddin\Desktop\Cryengine 3 SDK\Bin64\Editor.exe
+FileVersion: 3.4.5.6666
+ProductVersion: 3.4.5.6666
+CryDev Build
+Using STLport C++ Standard Library implementation
+Added MOD directory <engine> to CryPak
+Executable Command Line: "C:\Users\Puddin\Desktop\Cryengine 3 SDK\Bin64\Editor.exe" 
+
+Total number of logical processors: 4
+Number of available logical processors: 4
+Total number of system cores: 4
+Number of cores available to process: 4
+
+Processor 0:
+  CPU: AMD AMD Phenom(tm) II X4 955 Processor
+  Family: 15, Model: 4, Stepping: 2
+  FPU: On-Chip
+  CPU Speed (estimated): 3.1 MHz
+  MMX: not present
+  SSE: present
+  3DNow!: present
+  Serial number not present or disabled
+
+Processor 1:
+  CPU: AMD AMD Phenom(tm) II X4 955 Processor
+  Family: 15, Model: 4, Stepping: 2
+  FPU: On-Chip
+  CPU Speed (estimated): 3.1 MHz
+  MMX: not present
+  SSE: present
+  3DNow!: present
+  Serial number not present or disabled
+
+Processor 2:
+  CPU: AMD AMD Phenom(tm) II X4 955 Processor
+  Family: 15, Model: 4, Stepping: 2
+  FPU: On-Chip
+  CPU Speed (estimated): 3.1 MHz
+  MMX: not present
+  SSE: present
+  3DNow!: present
+  Serial number not present or disabled
+
+Processor 3:
+  CPU: AMD AMD Phenom(tm) II X4 955 Processor
+  Family: 15, Model: 4, Stepping: 2
+  FPU: On-Chip
+  CPU Speed (estimated): 3.1 MHz
+  MMX: not present
+  SSE: present
+  3DNow!: present
+  Serial number not present or disabled
+
+Loading Config file system.cfg (system.cfg)
+    OnSysSpecChange(4)
+    [Warning] Config file VeryHighSpec.cfg not found!
+    [Warning] Config file editor.cfg not found!
+[Warning] Config file Game/Game.cfg not found!
+creating CVarGroups from directory 'Config/CVarGroups' ...
+    Loading Config file Config/CVarGroups/sys_spec_full.cfg (game\config\cvargroups\sys_spec_full.cfg)
+    Loading Config file Config/CVarGroups/sys_spec_gameeffects.cfg (game\config\cvargroups\sys_spec_gameeffects.cfg)
+    Loading Config file Config/CVarGroups/sys_spec_objectdetail.cfg (game\config\cvargroups\sys_spec_objectdetail.cfg)
+    Loading Config file Config/CVarGroups/sys_spec_particles.cfg (game\config\cvargroups\sys_spec_particles.cfg)
+    Loading Config file Config/CVarGroups/sys_spec_physics.cfg (game\config\cvargroups\sys_spec_physics.cfg)
+    Loading Config file Config/CVarGroups/sys_spec_postprocessing.cfg (game\config\cvargroups\sys_spec_postprocessing.cfg)
+    Loading Config file Config/CVarGroups/sys_spec_quality.cfg (game\config\cvargroups\sys_spec_quality.cfg)
+    Loading Config file Config/CVarGroups/sys_spec_shading.cfg (game\config\cvargroups\sys_spec_shading.cfg)
+    Loading Config file Config/CVarGroups/sys_spec_shadows.cfg (game\config\cvargroups\sys_spec_shadows.cfg)
+    Loading Config file Config/CVarGroups/sys_spec_sound.cfg (game\config\cvargroups\sys_spec_sound.cfg)
+    Loading Config file Config/CVarGroups/sys_spec_texture.cfg (game\config\cvargroups\sys_spec_texture.cfg)
+    Loading Config file Config/CVarGroups/sys_spec_volumetriceffects.cfg (game\config\cvargroups\sys_spec_volumetriceffects.cfg)
+    Loading Config file Config/CVarGroups/sys_spec_water.cfg (game\config\cvargroups\sys_spec_water.cfg)
+Windows 7 64 bit SP 1 (build 6.1.7601)
+User name: "Puddin"
+System language: English
+Windows Directory: "C:\Windows"
+Prerequisites...
+* Installation of KB940105 hotfix required: no! (either not needed or already installed)
+Local time is 22:54:04 04/13/13, system running for 10240 minutes
+8192MB physical memory installed, 1754MB available, 8388607MB virtual memory installed, 78 percent of memory in use
+PageFile usage: 46MB, Working Set: 30MB, Peak PageFile usage: 46MB,
+Current display mode is 1920x1080x32, (Unknown graphics card)
+IBM enhanced (101/102-key) keyboard and 5+ button mouse installed
+--------------------------------------------------------------------------------
+[Warning] Config file %USER%/game.cfg not found!
+Loading Config file system.cfg (system.cfg)
+    OnSysSpecChange(4)
+    Loading Config file VeryHighSpec.cfg (game\config\veryhighspec.cfg)
+    [Warning] Config file editor.cfg not found!
+[Warning] Config file user.cfg not found!
+Stream Engine Initialization
+GameName: CryENGINE 3
+BuildTime: Feb 27 2013 02:37:59
+Font initialization
+Initializing CryFont...
+Initializing CryFont done, MemUsage=72Kb
+Physics initialization
+Initializing CryPhysics...
+Initializing CryPhysics done, MemUsage=672Kb
+Sound initialization
+    Initializing CrySoundSystem...
+    <Sound> Initializing AudioDevice now!
+    <Sound> Initialize FMOD with dynamic memory callbacks
+    <Sound> Starting to initialize Windows Audio Session API output! 
+    <Sound> Playback drivers found: 2
+    <Sound> Available playback drivers:
+	1.	SPDIF Out (Creative SB Audigy 2 ZS (WDM))
+	2.	Speakers (Creative SB Audigy 2 ZS (WDM))
+    <Sound> FmodEx-AudioDevice: Now running on driver: SPDIF Out (Creative SB Audigy 2 ZS (WDM))
+    <Sound> Record drivers found: 7
+    <Sound> Available record drivers:
+	1.	Line-In 2 (Creative SB Audigy 2 ZS (WDM))
+	2.	"What U Hear" (Creative SB Audigy 2 ZS (WDM))
+	3.	Auxiliary (Creative SB Audigy 2 ZS (WDM))
+	4.	S/PDIF-In (Creative SB Audigy 2 ZS (WDM))
+	5.	Line-In 3 (Creative SB Audigy 2 ZS (WDM))
+	6.	Line-In 1/Mic (Creative SB Audigy 2 ZS (WDM))
+	7.	CD Digital (Creative SB Audigy 2 ZS (WDM))
+    <Sound> Record config is set to autodetect using record driver 0
+    <Sound> Using speaker mode: FMOD_SPEAKERMODE_STEREO
+    <Sound> Initializing FMOD-EX now!
+    <Sound> Sound-FmodEx-AudioDevice Thread created: FMOD (WASAPI) feeder thread (1184) 
+    <Sound> Sound-FmodEx-AudioDevice Thread created: FMOD mixer thread (1200) 
+    <Sound> Sound-FmodEx-AudioDevice Thread created: FMOD stream thread (1208) 
+    <Sound> Initialized FMOD-EX
+    <Sound> Using FMOD version: 00044211 and internal 00044211!
+    <Sound> -------------CRYSOUND-EX VERSION =   00044211 ------- 
+    <Sound> Total number of all hardware channels available: 0
+    <Sound> Initializing SoundSystem now!
+    <Sound> AD: Setting of FMOD debug level failed! The FMOD libraries do not support logging!
+    Initializing CrySoundSystem done, MemUsage=5272Kb
+    <Sound> Sound-FmodEx-AudioDevice Thread created: FMOD nonblocking thread (0) (1220) 
+Renderer initialization
+Initializing CryRenderD3D11...
+CRenderer sizeof(Vec2f16)=4 sizeof(Vec3f16)=8
+Initializing CryRenderD3D11 done, MemUsage=1976Kb
+Initializing Direct3D and creating game window:
+    D3DX_SDK_VERSION = 43
+    Direct3D11 driver is creating...
+    Crytek Direct3D11 driver version 2.00 (Feb 27 2013 <02:41:17>)
+    Creating window called 'CryENGINE 3 [non-commercial use]' (1024x768)
+    D3D Adapter: Description: AMD Radeon HD 6800 Series
+    D3D Adapter: Driver version (UMD): 9.30.960.9200
+    D3D Adapter: VendorId = 0x1002
+    D3D Adapter: DeviceId = 0x6738
+    D3D Adapter: SubSysId = 0x174B174B
+    D3D Adapter: Revision = 0
+    ATI: Multi GPU count = -1
+    D3D Detected: ATI video card
+      Using 'A8R8G8B8' pixel texture format (Can autogen mips)
+      Using 'X8R8G8B8' pixel texture format (Can autogen mips)
+      Using 'R8G8B8' pixel texture format (Can autogen mips)
+      Using 'A8' pixel texture format (Can autogen mips)
+      Using 'A16B16G16R16F' pixel texture format (Can autogen mips)
+      Using 'A16B16G16R16' pixel texture format (Can autogen mips)
+      Using 'G16R16F' pixel texture format (Can autogen mips)
+      Using 'V16U16' pixel texture format (Can autogen mips)
+      Using 'R16F' pixel texture format (Can autogen mips)
+      Using 'R32F' pixel texture format (Can autogen mips)
+      Using 'A32B32G32R32F' pixel texture format (Can autogen mips)
+      Using 'DXT1' pixel texture format
+      Using 'DXT3' pixel texture format
+      Using 'DXT5' pixel texture format
+      Using '3DC' pixel texture format
+      Using 'D24S8' pixel texture format
+      Using 'D16' pixel texture format
+      Using 'D32F' pixel texture format
+      Using 'D24S8' pixel texture format
+      Using 'D16' pixel texture format
+     Renderer HDR_Scalar: R32F
+    D3D Adapter: Description: AMD Radeon HD 6800 Series
+    D3D Adapter: Driver version (UMD): 9.30.960.9200
+    D3D Adapter: VendorId = 0x1002
+    D3D Adapter: DeviceId = 0x6738
+    D3D Adapter: SubSysId = 0x174B174B
+    D3D Adapter: Revision = 0
+    ATI: Multi GPU count = -1
+    D3D Detected: ATI video card
+      Using 'A8R8G8B8' pixel texture format (Can autogen mips)
+      Using 'X8R8G8B8' pixel texture format (Can autogen mips)
+      Using 'R8G8B8' pixel texture format (Can autogen mips)
+      Using 'A8' pixel texture format (Can autogen mips)
+      Using 'A16B16G16R16F' pixel texture format (Can autogen mips)
+      Using 'A16B16G16R16' pixel texture format (Can autogen mips)
+      Using 'G16R16F' pixel texture format (Can autogen mips)
+      Using 'V16U16' pixel texture format (Can autogen mips)
+      Using 'R16F' pixel texture format (Can autogen mips)
+      Using 'R32F' pixel texture format (Can autogen mips)
+      Using 'A32B32G32R32F' pixel texture format (Can autogen mips)
+      Using 'DXT1' pixel texture format
+      Using 'DXT3' pixel texture format
+      Using 'DXT5' pixel texture format
+      Using '3DC' pixel texture format
+      Using 'D24S8' pixel texture format
+      Using 'D16' pixel texture format
+      Using 'D32F' pixel texture format
+      Using 'D24S8' pixel texture format
+      Using 'D16' pixel texture format
+     Renderer HDR_Scalar: R32F
+     ****** D3D11 CryRender Stats ******
+     Driver description: AMD Radeon HD 6800 Series
+     Feature level: DirectX 11.0
+     Full stats: 
+     Rasterizer: Hardware
+     Full scene AA: Disabled
+     Current Resolution: 1674x1022x32 Windowed
+     Texture filtering type: TRILINEAR
+     HDR Rendering: FP16
+     MRT HDR Rendering: Disabled
+     Occlusion queries: Supported
+     Geometry instancing: Supported
+     Vertex textures: Supported
+     Render to vertex buffer: Not supported
+     R16F rendertarget: Supported
+     NormalMaps compression : Supported
+     Gamma control: Hardware
+     Vertex Shaders version 4.0
+     Pixel Shaders version 4.0
+    used GeomInstancingThreshold is 2
+     Shader model usage: 'SM.4.0'
+     *****************************************
+     
+    Init Shaders
+    Flushing pended shaders...
+    Finished flushing pended shaders...
+    Flushing pended shaders...
+    Finished flushing pended shaders...
+     General shader quality: VeryHigh
+     Metal shader quality: VeryHigh
+     Glass shader quality: VeryHigh
+     Vegetation shader quality: VeryHigh
+     Ice shader quality: VeryHigh
+     Terrain shader quality: VeryHigh
+     Shadow shader quality: VeryHigh
+     Water shader quality: High
+     FX shader quality: VeryHigh
+     PostProcess shader quality: VeryHigh
+     HDR shader quality: VeryHigh
+     Sky shader quality: VeryHigh
+    Render quality: VeryHigh
+    Allocate render buffer for particles (16384 verts, 32768 tris)...
+    Init textures management (2020 Mb of video memory is available)...
+      Disabling of textures streaming...
+      Video textures: Atlas clouds max size: 32 Mb
+      Video textures: Atlas sprites max size: 32 Mb
+      Video textures: Dynamic managed max size: 80 Mb
+      Reloading all textures...
+      Finished reloading textures...
+      Finished initializing textures streaming...
+Initializing CryScaleform...
+Using Scaleform GFx 3.3.94
+  Using dynamic pool
+Initializing CryScaleform done, MemUsage=868Kb
+Network initialization
+Initializing CryNetwork...
+[net] using iocp socket io management
+network hostname: Puddin-PC
+  ip:172.16.0.3
+  ip:192.168.94.1
+  ip:192.168.35.1
+[Network Version]: DEBUG DEVELOPMENT BUILD
+Initializing CryNetwork done, MemUsage=1936Kb
+MovieSystem initialization
+Initializing CryMovie...
+Initializing CryMovie done, MemUsage=140Kb
+Initialized hardware mouse (game is allowed to confine mouse to window)
+Console initialization
+Time initialization
+Input initialization
+    Initializing CryInput...
+    Initializing DirectInput
+    Initializing Keyboard
+    Initializing mouse
+    Initializing CryInput done, MemUsage=836Kb
+AI initialization
+    Initializing CryAISystem...
+    Initializing CryAISystem done, MemUsage=792Kb
+Initializing Animation System
+    Initializing CryAnimation...
+    Initializing CryAnimation done, MemUsage=420Kb
+Initializing 3D Engine
+    Initializing Cry3DEngine...
+    Initializing default materials...
+     Compile Illum@Common_ZPassPS(RT0)(PS) (45 instructions, 4/5 constants) ... 
+     Compile Illum@Common_GlowPassPS(RT0)(PS) (10 instructions, 5/5 constants) ... 
+     Compile Illum@Common_MotionBlurPassPS(RT0)(PS) (14 instructions, 0/0 constants) ... 
+     Compile Illum@Common_CausticsPassPS(RT0)(PS) (56 instructions, 7/7 constants) ... 
+     Compile Illum@Common_CustomRenderPassPS(RT0)(PS) (8 instructions, 2/2 constants) ... 
+     Compile Illum@Common_EffectLayerPassPS(RT0)(PS) (51 instructions, 11/11 constants) ... 
+     Compile Illum@Common_SG_PS(RT0)(PS) (2 instructions, 0/0 constants) ... 
+     Compile Illum@Common_ShadowGen_PS_DX10(RT0)(PS) (2 instructions, 0/0 constants) ... 
+     Compile Illum@Common_ShadowPS(RT0)(PS) (2 instructions, 0/0 constants) ... 
+     Compile Illum@Common_DebugPassPS(RT0)(PS) (3 instructions, 0/0 constants) ... 
+     Compile Terrain@Common_ZPassPS(GL200000000)(RT0)(PS) (29 instructions, 2/3 constants) ... 
+     Compile Terrain@Common_CausticsPassPS(GL200000000)(RT0)(PS) (57 instructions, 7/7 constants) ... 
+     Compile Terrain@Common_SG_PS(GL200000000)(RT0)(PS) (2 instructions, 0/0 constants) ... 
+    Sky light: Optical lookup tables loaded off disc.
+    Initializing Cry3DEngine done, MemUsage=31108Kb
+Script System Initialization
+    Initializing CryScriptSystem...
+    Initializing CryScriptSystem done, MemUsage=584Kb
+Entity system initialization
+    Initializing CryEntitySystem...
+    Initializing CryEntitySystem done, MemUsage=708Kb
+Initializing AI System
+    AI: [AISYSTEM] Initialization started.
+    AI: Loaded 133 AI Behaviors in 0.12s...
+    AI: Loaded 0 AI Group Behaviors in 0.00s...
+    <Lua> [AI] 6 Formations loaded...
+    <Lua> [AI] 6 Formations loaded...
+    Registering CentralInterestManager with EntitySystem
+    AI: [AISYSTEM] Initialization finished.
+Waiting for login...
+Current Language: English 
+Windows Vista 6.1 (C:\Windows)
+Local time is 22:54:12 04/13/13, system running for 10240 minutes
+8192MB phys. memory installed, 7839MB paging available
+Current display mode is 1920x1080x32, (Unknown graphics card)
+IBM enhanced (101/102-key) keyboard and 5+ button mouse installed
+--------------------------------------------------------------------------------
+[Warning] Failed to read CDKey from registry
+<Lua> [VehicleSystem]: got 5 vehicle implementations
+[Warning] CVar gl_maxSessionNameTimeWithoutConnection is already registered!
+[Warning] CVar g_maxGameBrowserResults is already registered!
+[PlayerProfiles] Login of user 'Puddin' successful.
+[PlayerProfiles] Found 1 profiles.
+   Profile 0 : 'default'
+[GameProfiles]: Successfully activated profile 'default' for user 'Puddin'
+[Error] UISetting uses undefined CVar: sys_flash_video_soundvolume
+OnSysSpecChange(4)
+Loading Config file VeryHighSpec.cfg (game\config\veryhighspec.cfg)
+[Warning] Config file editor.cfg not found!
+[FEATURETESTER] (No instance) Creating feature tester instance
+Finished loading item XML definitions from 'scripts/entities/items/xml'!
+Loading ammo XML definitions from 'scripts/entities/items/xml'!
+Finished loading ammo XML definitions from 'scripts/entities/items/xml'!
+Create AG musiclogic.xml
+Loading animation graph with different but supported version! Filename=Animations/graphs/musiclogic.ag Current=65 File=63
+Ending game context...
+<Lua> Loading AIAlertness.lua
+<Lua> Executing Vehiclepool..
+<Lua> Loading SmartObjectCondition.lua
+*** Init system render resources ***
+[Warning] Warning: CTexMan::ImagePreprocessing: ImagePreprocessing of non-power-of-two texture name='EngineAssets/ScreenSpace/AreaTex.dds' file='engineassets/screenspace/areatex.dds' (160x560) [File=engineassets/screenspace/areatex.dds]	<Scope> [Texture]EngineAssets/ScreenSpace/AreaTex.dds > [Texture][Texture]EngineAssets/ScreenSpace/AreaTex.dds
+[Warning] Warning: CTexMan::ImagePreprocessing: ImagePreprocessing of non-power-of-two texture name='EngineAssets/ScreenSpace/SearchTex.dds' file='engineassets/screenspace/searchtex.dds' (66x33) [File=engineassets/screenspace/searchtex.dds]	<Scope> [Texture]EngineAssets/ScreenSpace/SearchTex.dds > [Texture][Texture]EngineAssets/ScreenSpace/SearchTex.dds
+EDITOR: Set game mode: on
+Loading Config file singleplayer.cfg (game\config\singleplayer.cfg)
+AI: [AISYSTEM] Initializing AI Actions.
+AI: [AISYSTEM] Initializing Smart Objects.
+Loading WIP features file: 'Editor\UI\WipFeatures.xml'...
+Loaded 3 WIP features.
+Unloading all previous plugins
+Loading plugins...
+Can't find plugin directory 'Editor/Plugins'
+Document created
+Creating view...
+*** Start clearing render resources ***
+Flushing pended textures...
+Finished flushing pended textures...
+[Error] 'c:/users/puddin/desktop/cryengine 3 sdk/user/sandbox/macros.xml' was loaded after engine init but before level load/new (should be fixed)
+[Error] 'libs/ui//texturepreload.xml' was loaded after engine init but before level load/new (should be fixed)
+[Error] 'shaders/cache/d3d11/cggshaders/particlesnomat@particle_shadowgs.fxcb' was loaded after engine init but before level load/new (should be fixed)
+[Error] 'shaders/cache/d3d11/cggshaders/particlesnomat@particlecustomrendergs.fxcb' was loaded after engine init but before level load/new (should be fixed)
+[Error] 'shaders/cache/d3d11/cggshaders/particlesnomat@particlegs.fxcb' was loaded after engine init but before level load/new (should be fixed)
+[Error] 'shaders/cache/d3d11/cgpshaders/_shared@common_shadowps.fxcb' was loaded after engine init but before level load/new (should be fixed)
+[Error] 'shaders/cache/d3d11/cgpshaders/particlesnomat@particle_shadowps.fxcb' was loaded after engine init but before level load/new (should be fixed)
+[Error] 'shaders/cache/d3d11/cgpshaders/particlesnomat@particlecustomrenderps.fxcb' was loaded after engine init but before level load/new (should be fixed)
+[Error] 'shaders/cache/d3d11/cgpshaders/particlesnomat@particleps.fxcb' was loaded after engine init but before level load/new (should be fixed)
+[Error] 'shaders/cache/d3d11/cgvshaders/_shared@common_shadowvs.fxcb' was loaded after engine init but before level load/new (should be fixed)
+[Error] 'shaders/cache/d3d11/cgvshaders/particlesnomat@particle_shadowvs.fxcb' was loaded after engine init but before level load/new (should be fixed)
+[Error] 'shaders/cache/d3d11/cgvshaders/particlesnomat@particle_shadowvs_gspassthrough.fxcb' was loaded after engine init but before level load/new (should be fixed)
+[Error] 'shaders/cache/d3d11/cgvshaders/particlesnomat@particlecustomrendervs.fxcb' was loaded after engine init but before level load/new (should be fixed)
+[Error] 'shaders/cache/d3d11/cgvshaders/particlesnomat@particlevs.fxcb' was loaded after engine init but before level load/new (should be fixed)
+[Error] 'shaders/cache/d3d11/cgvshaders/particlesnomat@particlevs_gspassthrough.fxcb' was loaded after engine init but before level load/new (should be fixed)
+*** Start clearing render resources ***
+Flushing pended textures...
+Finished flushing pended textures...
+EDITOR: Set game mode: off
+Ending game context...
+    Destroying CActionGame instance 00000000314DE460 (level="")
+        CCryLobbySessionHandler::OnGameShutdown(), m_userQuit=false, migrationState=0
+EDITOR: Set game mode: on
+Loading Config file singleplayer.cfg (game\config\singleplayer.cfg)
+<Lua> [AI] Reseting AI
+<Lua> [AI] Initialising TPS queries for Test
+<Lua> [AI] Initialising TPS queries for Grunt
+<Lua> PipeManager: Creating goal pipes
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesFogOfWar.xml...
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesBasicAI.xml...
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesCivilian.xml...
+<Lua> PipeManager: Finished creating goal pipes!
+r_EyeAdaptationBase was reset to default
+Preparing new document...
+CRGBLayer::AllocateTiles 2x2 tiles 512 => 1024x1024 texture
+allocating editor height map (1024x1024)*4
+Flushing pended textures...
+Finished flushing pended textures...
+Loading layer texture (game/Textures/defaults/defaultnouvs.dds)... ok
+Create AG humanmalefullbody.xml
+Loading animation graph with different but supported version! Filename=Animations/graphs/humanmalefullbody.ag Current=65 File=63
+Create AG humanmaleupperbody.xml
+Loading animation graph with different but supported version! Filename=Animations/graphs/humanmaleupperbody.ag Current=65 File=63
+  251 animation-assets loaded (total assets: 286)
+  10 animation-assets loaded (total assets: 286)
+  13 animation-assets loaded (total assets: 286)
+  6 animation-assets loaded (total assets: 286)
+  8 animation-assets loaded (total assets: 286)
+  15 animation-assets loaded (total assets: 286)
+  9 animation-assets loaded (total assets: 286)
+<Lua> warning: No spawn points; using default spawn location!
+-- Presort shaders by states...
+--- 66 Resources, 48 Resource groups.
+-- Precaching textures...
+Precaching textures done in 1.39 seconds
+Adding for file change notifications: 'C:\Users\Puddin\Desktop\Cryengine 3 SDK\game\'
+Adding for file change notifications: 'C:\Users\Puddin\Desktop\Cryengine 3 SDK\engine\'
+Loading Localization File localization\text_ui_ingame.xml
+Loading Localization File localization\text_ui_menus.xml
+Loading Localization File localization\text_ui_levels.xml
+Loading Localization File localization\text_ui_warnings.xml
+Loading Localization File localization\ai_dialog_recording_list.xml
+Loading Localization File localization\dialog_recording_list.xml
+[CONSOLE] Executing console command 'exec autoexec.cfg'
+    Executing console batch file (try game,config,root): "autoexec.cfg" not found!
+[CONSOLE] Executing console command 'exec editor.cfg'
+    Executing console batch file (try game,config,root): "editor.cfg" not found!
+[CONSOLE] Executing console command 'exec user.cfg'
+    Executing console batch file (try game,config,root): "user.cfg" not found!
+Init textures management (2020 Mb of video memory is available)...
+  Disabling of textures streaming...
+  Video textures: Atlas clouds max size: 32 Mb
+  Video textures: Atlas sprites max size: 32 Mb
+  Video textures: Dynamic managed max size: 80 Mb
+  Reloading all textures...
+  Finished reloading textures...
+  Finished initializing textures streaming...
+[CUIMultiPlayer] PlayerJoined 30583 Puddin
+Opening document C:\Users\Puddin\Desktop\Cryengine 3 SDK\game\Levels\Level1\Level1.cry
+*** Start clearing render resources ***
+Flushing pended textures...
+Finished flushing pended textures...
+Loading from C:\Users\Puddin\Desktop\Cryengine 3 SDK\game\Levels\Level1\Level1.cry...
+*** Start clearing render resources ***
+Flushing pended textures...
+Finished flushing pended textures...
+EDITOR: Set game mode: off
+Ending game context...
+    Destroying CActionGame instance 0000000031569FA0 (level="")
+        CCryLobbySessionHandler::OnGameShutdown(), m_userQuit=false, migrationState=0
+EDITOR: Set game mode: on
+Loading Config file singleplayer.cfg (game\config\singleplayer.cfg)
+<Lua> [AI] Reseting AI
+<Lua> [AI] Initialising TPS queries for Test
+<Lua> [AI] Initialising TPS queries for Grunt
+<Lua> PipeManager: Creating goal pipes
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesFogOfWar.xml...
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesBasicAI.xml...
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesCivilian.xml...
+<Lua> PipeManager: Finished creating goal pipes!
+---- Start: Load Sequence Groups
+---- End: Load Sequence Groups (0 seconds)
+Loading missions...
+---- Start: Load Terrain
+CRGBLayer::AllocateTiles 2x2 tiles 512 => 1024x1024 texture
+allocating editor height map (1024x1024)*4
+CRGBLayer::AllocateTiles 2x2 tiles 512 => 1024x1024 texture
+---- Start: 3D Engine level load
+Loading map 'game\levels\level1' into engine...
+===== Loading Particle Effects =====
+Preloading Particle Effects...
+Particle Effects Loaded in 0.72 seconds
+<Lua> registering explosion and shapes with physics system...
+---- End: 3D Engine level load (0 seconds)
+---- Start: Loading Surface Types
+---- End: Loading Surface Types (0 seconds)
+---- Start: Loading Terrain Layers Info
+Loading layer settings...
+Loading layer texture (textures/defaults/grey.dds)...
+ Compile Terrain@Common_ZPassPS(GL200080000)(RT0)(PS) (29 instructions, 2/3 constants) ... 
+  loaded editor layer 0  name='Grass' LayerID=0
+Loading layer texture (textures/defaults/grey.dds)...
+  loaded editor layer 1  name='Cliff' LayerID=1
+Loading layer texture (textures/defaults/grey.dds)...
+  loaded editor layer 2  name='Beach' LayerID=2
+Loading layer texture (textures/defaults/grey.dds)...
+  loaded editor layer 3  name='Moss' LayerID=3
+Loading layer texture (textures/defaults/grey.dds)...
+  loaded editor layer 4  name='Dirt' LayerID=4
+---- End: Loading Terrain Layers Info (0 seconds)
+---- Start: Load Terrain
+Constructing 1365 terrain nodes (0.5 MB) 
+===== Initializing terrain nodes ===== 
+===== Loading outdoor instances ===== 
+---- End: Load Terrain (0 seconds)
+---- Start: Load Vegetation
+Loading Vegetation Map...
+---- End: Load Vegetation (0 seconds)
+---- Start: Terrain Postprocess
+---- End: Terrain Postprocess (0 seconds)
+---- Start: Process RGB Terrain Layers
+---- End: Process RGB Terrain Layers (0 seconds)
+Loading terrain layers for segment 0 ...
+  Layer 0 - has material materials/terrain/grass_1
+  Layer 1 - has material materials/terrain/rock_4
+  Layer 2 - has material materials/terrain/beach_white_sand
+  Layer 3 - has material materials/terrain/ground_mossy_1
+  Layer 4 - has material materials/terrain/mud_1
+Loading terrain layers for segment 0 ...
+  Layer 0 - has material materials/terrain/grass_1
+  Layer 1 - has material materials/terrain/rock_4
+  Layer 2 - has material materials/terrain/beach_white_sand
+  Layer 3 - has material materials/terrain/ground_mossy_1
+  Layer 4 - has material materials/terrain/mud_1
+---- End: Load Terrain (1 seconds)
+---- Start: Reposition Vegetation
+---- End: Reposition Vegetation (0 seconds)
+---- Start: Load MaterialManager
+---- End: Load MaterialManager (0 seconds)
+---- Start: Load Particles
+---- End: Load Particles (0 seconds)
+---- Start: Load Music
+---- End: Load Music (0 seconds)
+---- Start: Load GameTokens
+---- End: Load GameTokens (0 seconds)
+Loading View settings...
+---- Start: Updating Surface Types
+Loading terrain layers for segment 0 ...
+  Layer 0 - has material materials/terrain/grass_1
+  Layer 1 - has material materials/terrain/rock_4
+  Layer 2 - has material materials/terrain/beach_white_sand
+  Layer 3 - has material materials/terrain/ground_mossy_1
+  Layer 4 - has material materials/terrain/mud_1
+---- End: Updating Surface Types (0 seconds)
+Loading Fog settings...
+---- Start: Load Entity Archetypes Database
+---- End: Load Entity Archetypes Database (0 seconds)
+---- Start: Load Prefabs Database
+---- End: Load Prefabs Database (0 seconds)
+---- Start: Activating Mission Mission0 ok
+Loading AI Triangulation game\levels\level1, Mission0
+--- AI: Reading vertex list
+--- AI: Verifying BAI file version
+--- AI: Reading nav graph.
+--- AI: Verifying BAI file version
+--- AI: Reading BBOX
+--- AI: Reading node descriptors
+--- AI: Verifying graph nodes
+--- AI: Creating graph nodes
+--- AI: Reading links
+--- AI: Reconnecting links
+--- AI: Finished Reconnecting links in  0.001 sec
+--- AI: Reading 3D volumes.
+--- AI: Reading AI volumes [game\levels\level1/v3dMission0.bai]
+--- AI: AI volumes loaded  successfully in  0.001 sec. [game\levels\level1/v3dMission0.bai]
+--- AI: AI num volumes = 0, num portals = 0
+--- AI: Reading Flight navigation.
+--- AI: Loading 0 links descriptors.
+--- AI: Connecting 0 links.
+--- AI: AI flight nav loaded successfully in  0.002 (spans =  0.000, links =  0.002) sec. [game\levels\level1/fnavMission0.bai]
+--- AI: Reading Road navigation
+--- AI: Reading 3D surface navigation
+--- AI: CWaypoint3DSurfaceNavRegion::ReadFromFile game\levels\level1/waypt3DsfcMission0.bai
+--- AI: Building forbidden QuadTrees
+--- AI: Navigation Data Loaded in  0.03 sec
+Finished Loading AI Triangulation in  0.038 secs
+---- End: Activating Mission Mission0 (0 seconds)
+---- Start: Load Sequence Groups
+---- End: Load Sequence Groups (0 seconds)
+---- Start: Load Level Shader Cache
+827 shader combination loaded for level game\levels\level1
+---- End: Load Level Shader Cache (0 seconds)
+---- Start: Post Load
+  251 animation-assets loaded (total assets: 286)
+  10 animation-assets loaded (total assets: 286)
+<Lua> warning: No spawn points; using default spawn location!
+-- Presort shaders by states...
+--- 184 Resources, 100 Resource groups.
+-- Precaching textures...
+Precaching textures done in 2.07 seconds
+---- End: Post Load (2 seconds)
+[LevelLoadTime] Level game\levels\level1 loaded in 5 seconds
+File access time during level loading: 2.46 seconds
+--- Warming-up textures...
+-----------------------------------------------------------
+Successfully opened document C:\Users\Puddin\Desktop\Cryengine 3 SDK\game\Levels\Level1\Level1.cry
+Level loading time: 7.47 seconds
+-----------------------------------------------------------
+Opening terrain\cover.ctc ...
+  TerrainLayer 0: TexFormat: DXT5, SectorTextureSize: 256x256, SectorTextureDataSizeBytes: 65536
+  TerrainLayer 1: TexFormat: DXT5, SectorTextureSize: 256x256, SectorTextureDataSizeBytes: 65536
+  RGB multiplier: 1, Texture indices: 85
+Loading RGB Layer Tile: TilePos=(0, 1) MemUsage=0.0MB
+Loading RGB Layer Tile: TilePos=(0, 0) MemUsage=1.0MB
+Loading RGB Layer Tile: TilePos=(1, 0) MemUsage=2.0MB
+Loading RGB Layer Tile: TilePos=(1, 1) MemUsage=3.0MB
+ Compile Vegetation@Common_ZPassPS(GL400003200)(RT20c0104)(PS) (36 instructions, 7/8 constants) ... 
+ Compile Terrain@Common_ZPassPS(GL200080000)(RT20d0000)(PS) (25 instructions, 2/3 constants) ... 
+[CUIMultiPlayer] PlayerJoined 30583 Puddin
+ Compile Terrain@Common_ZPassVS(GL200000000)(RT20d0000)(MD200)(VS) (68 instructions, 7/18 constants) ... 
+ Compile Illum@Common_ZPassPS(GL80200)(RT20c0004)(PS) (29 instructions, 3/4 constants) ... 
+ Compile Vegetation@Common_ZPassPS(GL400003200)(RTc0104)(PS) (36 instructions, 7/8 constants) ... 
+ Compile Illum@Common_ZPassPS(GL80200)(RTc0004)(PS) (29 instructions, 3/4 constants) ... 
+ Compile Vegetation@VegetationVS(GL400200000)(RT20c0000)(LT1)(MDV600)(VS) (67 instructions, 8/16 constants) ... 
+ Compile Vegetation@Common_ZPassVS(GL400200000)(RT20c0104)(MDV600)(VS) (47 instructions, 5/10 constants) ... 
+ Compile Vegetation@VegetationVS(GL400200000)(RT2c0000)(LT1)(MDV600)(VS) (67 instructions, 6/12 constants) ... 
+ Compile Vegetation@Common_ZPassVS(GL400200000)(RT2c0104)(MDV600)(VS) (47 instructions, 4/7 constants) ... 
+ Compile Vegetation@Common_ZPassPS(GL400201000)(RTc0104)(PS) (20 instructions, 3/4 constants) ... 
+ Compile Vegetation@Common_SG_VS(GL400000000)(RT10000000022c0100)(MDV600)(VS) (28 instructions, 2/5 constants) ... 
+Undo (Undo:50,Redo:1)
+Loading terrain layers for segment 0 ...
+  Layer 0 - has material materials/terrain/grass_1
+  Layer 1 - has material materials/terrain/rock_4
+  Layer 2 - has material materials/terrain/beach_white_sand
+  Layer 3 - has material materials/terrain/ground_mossy_1
+  Layer 4 - has material materials/terrain/mud_1
+ Compile Vegetation@VegetationVS(GL400200000)(RT22c0000)(LT1)(MDV600)(VS) (67 instructions, 6/12 constants) ... 
+ Compile Vegetation@Common_ZPassVS(GL400200000)(RT22c0104)(MDV600)(VS) (47 instructions, 4/7 constants) ... 
+Loading terrain layers for segment 0 ...
+  Layer 0 - has material materials/terrain/grass_1
+  Layer 1 - has material materials/terrain/rock_4
+  Layer 2 - has material materials/terrain/beach_white_sand
+  Layer 3 - has material materials/terrain/ground_mossy_1
+  Layer 4 - has material materials/terrain/mud_1
+ Compile FarTreeSprites@SpriteFuncPS(RT4000c0400)(PS) (19 instructions, 7/7 constants) ... 
+Undo (Undo:50,Redo:1)
+Undo (Undo:50,Redo:1)
+ Compile Vegetation@VegetationPS(GL2200)(RT20c0003)(LT101)(PS) (86 instructions, 14/14 constants) ... 
+ Compile Vegetation@VegetationPS(GL2200)(RT20c0402)(LT1)(PS) (81 instructions, 17/18 constants) ... 
+ Compile Vegetation@VegetationPS(GL2200)(RT20000100020c0003)(LT1)(PS) (44 instructions, 8/8 constants) ... 
+ Compile Vegetation@Common_ZPassVS(GL400000000)(RT2c0004)(VS) (36 instructions, 3/6 constants) ... 
+ Compile Vegetation@VegetationPS(GL2200)(RTc0402)(LT1)(PS) (81 instructions, 17/18 constants) ... 
+ Compile Vegetation@Common_ZPassVS(GL400000000)(RT22c0004)(VS) (36 instructions, 3/6 constants) ... 
+[Warning] I3DEngine::AddStaticObject: Attempt to add object of undefined type
+ Compile Illum@Common_ZPassVS(GL100000000)(RT22c0004)(VS) (36 instructions, 3/6 constants) ... 
+Disable Accelerators
+<Lua> [AI] Reseting AI
+<Lua> [AI] Initialising TPS queries for Test
+<Lua> [AI] Initialising TPS queries for Grunt
+<Lua> PipeManager: Creating goal pipes
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesFogOfWar.xml...
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesBasicAI.xml...
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesCivilian.xml...
+<Lua> PipeManager: Finished creating goal pipes!
+[Warning] <Flash> "" cannot be loaded by loadMovie API! Invalid file or format passed. [Libs/UI//HUD_3D.gfx]
+[Warning] <Flash> Could not load user image "img://" - GFxImageLoader failed or not specified [Libs/UI//HUD_3D.gfx]
+ Compile Vegetation@VegetationVS(GL400800000)(RT22d0101)(LT1)(VS) (87 instructions, 7/10 constants) ... 
+Enable Accelerators
+<Lua> [AI] Reseting AI
+<Lua> [AI] Initialising TPS queries for Test
+<Lua> [AI] Initialising TPS queries for Grunt
+<Lua> PipeManager: Creating goal pipes
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesFogOfWar.xml...
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesBasicAI.xml...
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesCivilian.xml...
+<Lua> PipeManager: Finished creating goal pipes!
+[Warning] [UIAction] HUD3D: could not destroy BootStrapper for flash file: "HUD_3D.gfx" (Number of dynamic textures: 1)
+ Compile Vegetation@VegetationPS(GL200000)(RT20c0003)(LT101)(PS) (17 instructions, 5/5 constants) ... 
+ Compile Vegetation@VegetationVS(GL400200000)(RT20c0001)(LT101)(VS) (99 instructions, 11/19 constants) ... 
+ Compile Vegetation@VegetationPS(GL2280)(RT0)(LT1)(PS) (88 instructions, 14/15 constants) ... 
+ Compile Vegetation@VegetationPS(GL2280)(RT20c0103)(LT101)(PS) (86 instructions, 14/14 constants) ... 
+ Compile Vegetation@VegetationVS(GL400000000)(RT20c0101)(LT101)(VS) (77 instructions, 7/12 constants) ... 
+ Compile Illum@Common_ZPassVS(GL100000000)(RT2c0004)(VS) (41 instructions, 3/6 constants) ... 
+Undo (Undo:50,Redo:1)
+ Compile Vegetation@VegetationVS(GL400800000)(RT4020c0000)(LT1)(VS) (57 instructions, 7/12 constants) ... 
+ Compile Vegetation@VegetationPS(GL800000)(RT4020c0402)(LT1)(PS) (97 instructions, 18/19 constants) ... 
+Undo (Undo:50,Redo:1)
+Undo (Undo:50,Redo:1)
+Undo (Undo:50,Redo:1)
+Undo (Undo:50,Redo:1)
+Undo (Undo:50,Redo:1)
+Disable Accelerators
+<Lua> [AI] Reseting AI
+<Lua> [AI] Initialising TPS queries for Test
+<Lua> [AI] Initialising TPS queries for Grunt
+<Lua> PipeManager: Creating goal pipes
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesFogOfWar.xml...
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesBasicAI.xml...
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesCivilian.xml...
+<Lua> PipeManager: Finished creating goal pipes!
+[Warning] <Flash> "" cannot be loaded by loadMovie API! Invalid file or format passed. [Libs/UI//HUD_3D.gfx]
+[Warning] <Flash> Could not load user image "img://" - GFxImageLoader failed or not specified [Libs/UI//HUD_3D.gfx]
+Enable Accelerators
+<Lua> [AI] Reseting AI
+<Lua> [AI] Initialising TPS queries for Test
+<Lua> [AI] Initialising TPS queries for Grunt
+<Lua> PipeManager: Creating goal pipes
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesFogOfWar.xml...
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesBasicAI.xml...
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesCivilian.xml...
+<Lua> PipeManager: Finished creating goal pipes!
+[Warning] [UIAction] HUD3D: could not destroy BootStrapper for flash file: "HUD_3D.gfx" (Number of dynamic textures: 1)
+Undo (Undo:50,Redo:1)
+Undo (Undo:49,Redo:2)
+Undo (Undo:50,Redo:1)
+Disable Accelerators
+<Lua> [AI] Reseting AI
+<Lua> [AI] Initialising TPS queries for Test
+<Lua> [AI] Initialising TPS queries for Grunt
+<Lua> PipeManager: Creating goal pipes
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesFogOfWar.xml...
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesBasicAI.xml...
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesCivilian.xml...
+<Lua> PipeManager: Finished creating goal pipes!
+[Warning] <Flash> "" cannot be loaded by loadMovie API! Invalid file or format passed. [Libs/UI//HUD_3D.gfx]
+[Warning] <Flash> Could not load user image "img://" - GFxImageLoader failed or not specified [Libs/UI//HUD_3D.gfx]
+Enable Accelerators
+<Lua> [AI] Reseting AI
+<Lua> [AI] Initialising TPS queries for Test
+<Lua> [AI] Initialising TPS queries for Grunt
+<Lua> PipeManager: Creating goal pipes
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesFogOfWar.xml...
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesBasicAI.xml...
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesCivilian.xml...
+<Lua> PipeManager: Finished creating goal pipes!
+[Warning] [UIAction] HUD3D: could not destroy BootStrapper for flash file: "HUD_3D.gfx" (Number of dynamic textures: 1)
+ Compile Vegetation@VegetationVS(GL400200000)(RT4020c0000)(LT1)(MDV700)(VS) (101 instructions, 12/20 constants) ... 
+Loading terrain layers for segment 0 ...
+  Layer 0 - has material materials/terrain/grass_1
+  Layer 1 - has material materials/terrain/rock_4
+  Layer 2 - has material materials/terrain/beach_white_sand
+  Layer 3 - has material materials/terrain/ground_mossy_1
+  Layer 4 - has material materials/terrain/mud_1
+ Compile Vegetation@Common_ZPassVS(GL400200000)(RT2c0104)(MDV700)(VS) (79 instructions, 6/9 constants) ... 
+ Compile Vegetation@VegetationVS(GL400200000)(RT2c0000)(LT1)(MDV700)(VS) (99 instructions, 8/14 constants) ... 
+ Compile Vegetation@Common_ZPassVS(GL400200000)(RT22c0104)(MDV700)(VS) (79 instructions, 6/9 constants) ... 
+ Compile Vegetation@VegetationVS(GL400200000)(RT22c0000)(LT1)(MDV700)(VS) (99 instructions, 8/14 constants) ... 
+Loading terrain layers for segment 0 ...
+  Layer 0 - has material materials/terrain/grass_1
+  Layer 1 - has material materials/terrain/rock_4
+  Layer 2 - has material materials/terrain/beach_white_sand
+  Layer 3 - has material materials/terrain/ground_mossy_1
+  Layer 4 - has material materials/terrain/mud_1
+Undo (Undo:50,Redo:1)
+Undo (Undo:49,Redo:2)
+Undo (Undo:48,Redo:3)
+Disable Accelerators
+<Lua> [AI] Reseting AI
+<Lua> [AI] Initialising TPS queries for Test
+<Lua> [AI] Initialising TPS queries for Grunt
+<Lua> PipeManager: Creating goal pipes
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesFogOfWar.xml...
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesBasicAI.xml...
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesCivilian.xml...
+<Lua> PipeManager: Finished creating goal pipes!
+[Warning] <Flash> "" cannot be loaded by loadMovie API! Invalid file or format passed. [Libs/UI//HUD_3D.gfx]
+[Warning] <Flash> Could not load user image "img://" - GFxImageLoader failed or not specified [Libs/UI//HUD_3D.gfx]
+Enable Accelerators
+<Lua> [AI] Reseting AI
+<Lua> [AI] Initialising TPS queries for Test
+<Lua> [AI] Initialising TPS queries for Grunt
+<Lua> PipeManager: Creating goal pipes
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesFogOfWar.xml...
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesBasicAI.xml...
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesCivilian.xml...
+<Lua> PipeManager: Finished creating goal pipes!
+[Warning] [UIAction] HUD3D: could not destroy BootStrapper for flash file: "HUD_3D.gfx" (Number of dynamic textures: 1)
+Disable Accelerators
+<Lua> [AI] Reseting AI
+<Lua> [AI] Initialising TPS queries for Test
+<Lua> [AI] Initialising TPS queries for Grunt
+<Lua> PipeManager: Creating goal pipes
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesFogOfWar.xml...
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesBasicAI.xml...
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesCivilian.xml...
+<Lua> PipeManager: Finished creating goal pipes!
+ Compile Water@WaterPS(GL834)(RT200000080001)(MD80)(PS) (167 instructions, 22/22 constants) ... 
+[Warning] <Flash> "" cannot be loaded by loadMovie API! Invalid file or format passed. [Libs/UI//HUD_3D.gfx]
+[Warning] <Flash> Could not load user image "img://" - GFxImageLoader failed or not specified [Libs/UI//HUD_3D.gfx]
+Enable Accelerators
+<Lua> [AI] Reseting AI
+<Lua> [AI] Initialising TPS queries for Test
+<Lua> [AI] Initialising TPS queries for Grunt
+<Lua> PipeManager: Creating goal pipes
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesFogOfWar.xml...
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesBasicAI.xml...
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesCivilian.xml...
+<Lua> PipeManager: Finished creating goal pipes!
+[Warning] [UIAction] HUD3D: could not destroy BootStrapper for flash file: "HUD_3D.gfx" (Number of dynamic textures: 1)
+Undo (Undo:50,Redo:1)
+Undo (Undo:50,Redo:1)
+Undo (Undo:50,Redo:1)
+ Compile Vegetation@VegetationVS(GL400800000)(RT20c0001)(LT101)(MDV200)(VS) (89 instructions, 10/15 constants) ... 
+Undo (Undo:50,Redo:1)
+Undo (Undo:50,Redo:1)
+ Compile Vegetation@Common_SG_VS(GL400000000)(RT10000000022c0000)(MDV200)(VS) (28 instructions, 2/5 constants) ... 
+Undo (Undo:50,Redo:1)
+Undo (Undo:50,Redo:1)
+Undo (Undo:50,Redo:1)
+Disable Accelerators
+<Lua> [AI] Reseting AI
+<Lua> [AI] Initialising TPS queries for Test
+<Lua> [AI] Initialising TPS queries for Grunt
+<Lua> PipeManager: Creating goal pipes
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesFogOfWar.xml...
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesBasicAI.xml...
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesCivilian.xml...
+<Lua> PipeManager: Finished creating goal pipes!
+[Warning] <Flash> "" cannot be loaded by loadMovie API! Invalid file or format passed. [Libs/UI//HUD_3D.gfx]
+[Warning] <Flash> Could not load user image "img://" - GFxImageLoader failed or not specified [Libs/UI//HUD_3D.gfx]
+Enable Accelerators
+<Lua> [AI] Reseting AI
+<Lua> [AI] Initialising TPS queries for Test
+<Lua> [AI] Initialising TPS queries for Grunt
+<Lua> PipeManager: Creating goal pipes
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesFogOfWar.xml...
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesBasicAI.xml...
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesCivilian.xml...
+<Lua> PipeManager: Finished creating goal pipes!
+[Warning] [UIAction] HUD3D: could not destroy BootStrapper for flash file: "HUD_3D.gfx" (Number of dynamic textures: 1)
+ Compile Illum@IlluminationPS(GL2000000200)(RT20c0003)(LT101)(PS) (98 instructions, 14/15 constants) ... 
+ Compile Illum@IlluminationPS(GL2000080200)(RT20c0003)(LT101)(PS) (98 instructions, 15/16 constants) ... 
+ Compile Illum@Common_ZPassPS(GL8000000)(RT20c0004)(PS) (100 instructions, 7/8 constants) ... 
+ Compile Illum@IlluminationVS(GL2000000000)(RT2000000)(LT1)(MD100)(MDV100)(VS) (36 instructions, 5/13 constants) ... 
+ Compile Illum@IlluminationVS(GL2008000000)(RT2000000)(LT1)(MDV100)(VS) (48 instructions, 4/9 constants) ... 
+ Compile Illum@Common_ZPassVS(RT20c0004)(MD100)(MDV100)(VS) (47 instructions, 6/14 constants) ... 
+ Compile Illum@Common_ZPassVS(GL8000000)(RT20c0004)(MDV100)(VS) (52 instructions, 5/10 constants) ... 
+Undo (Undo:50,Redo:1)
+Undo (Undo:50,Redo:1)
+Undo (Undo:50,Redo:1)
+Disable Accelerators
+<Lua> [AI] Reseting AI
+<Lua> [AI] Initialising TPS queries for Test
+<Lua> [AI] Initialising TPS queries for Grunt
+<Lua> PipeManager: Creating goal pipes
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesFogOfWar.xml...
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesBasicAI.xml...
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesCivilian.xml...
+<Lua> PipeManager: Finished creating goal pipes!
+[Warning] <Flash> "" cannot be loaded by loadMovie API! Invalid file or format passed. [Libs/UI//HUD_3D.gfx]
+[Warning] <Flash> Could not load user image "img://" - GFxImageLoader failed or not specified [Libs/UI//HUD_3D.gfx]
+Enable Accelerators
+<Lua> [AI] Reseting AI
+<Lua> [AI] Initialising TPS queries for Test
+<Lua> [AI] Initialising TPS queries for Grunt
+<Lua> PipeManager: Creating goal pipes
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesFogOfWar.xml...
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesBasicAI.xml...
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesCivilian.xml...
+<Lua> PipeManager: Finished creating goal pipes!
+[Warning] [UIAction] HUD3D: could not destroy BootStrapper for flash file: "HUD_3D.gfx" (Number of dynamic textures: 1)
+Undo (Undo:50,Redo:1)
+Undo (Undo:50,Redo:1)
+Undo (Undo:50,Redo:1)
+ Compile Illum@Common_ZPassPS(GL2200)(RT20c0004)(PS) (34 instructions, 6/7 constants) ... 
+Undo (Undo:50,Redo:1)
+ Compile Illum@IlluminationVS(RT2000001)(LT1)(MDV100)(VS) (71 instructions, 8/13 constants) ... 
+ Compile Illum@IlluminationPS(GL2200)(RTc0402)(LT1)(PS) (97 instructions, 20/21 constants) ... 
+ Compile Illum@Common_ZPassPS(GL2200)(RTc0004)(PS) (34 instructions, 6/7 constants) ... 
+Undo (Undo:50,Redo:1)
+ Compile Illum@Common_DebugPassVS(RT4)(MDV100)(VS) (26 instructions, 5/10 constants) ... 
+Undo (Undo:50,Redo:1)
+ Compile Illum@Common_ZPassPS(GL82280)(RT20c0004)(PS) (34 instructions, 6/7 constants) ... 
+Undo (Undo:50,Redo:1)
+Undo (Undo:50,Redo:1)
+Undo (Undo:50,Redo:1)
+Disable Accelerators
+<Lua> [AI] Reseting AI
+<Lua> [AI] Initialising TPS queries for Test
+<Lua> [AI] Initialising TPS queries for Grunt
+<Lua> PipeManager: Creating goal pipes
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesFogOfWar.xml...
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesBasicAI.xml...
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesCivilian.xml...
+<Lua> PipeManager: Finished creating goal pipes!
+[Warning] <Flash> "" cannot be loaded by loadMovie API! Invalid file or format passed. [Libs/UI//HUD_3D.gfx]
+[Warning] <Flash> Could not load user image "img://" - GFxImageLoader failed or not specified [Libs/UI//HUD_3D.gfx]
+Enable Accelerators
+<Lua> [AI] Reseting AI
+<Lua> [AI] Initialising TPS queries for Test
+<Lua> [AI] Initialising TPS queries for Grunt
+<Lua> PipeManager: Creating goal pipes
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesFogOfWar.xml...
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesBasicAI.xml...
+--- AI: Loading goal pipes XML file: Scripts/AI/GoalPipes/GoalPipesCivilian.xml...
+<Lua> PipeManager: Finished creating goal pipes!
+[Warning] [UIAction] HUD3D: could not destroy BootStrapper for flash file: "HUD_3D.gfx" (Number of dynamic textures: 1)
+Undo (Undo:50,Redo:1)
+Undo (Undo:50,Redo:1)
+ Compile Illum@Common_ZPassVS(RT22c0004)(VS) (36 instructions, 3/6 constants) ... 
+Undo (Undo:50,Redo:1)
+Undo (Undo:50,Redo:1)
+Undo (Undo:49,Redo:2)
+Undo (Undo:50,Redo:1)
+Undo (Undo:49,Redo:2)
+Undo (Undo:50,Redo:1)
+Undo (Undo:50,Redo:1)
+Undo (Undo:50,Redo:1)
+Undo (Undo:50,Redo:1)
+[Warning] I3DEngine::AddStaticObject: Attempt to add object of undefined type
+[Warning] I3DEngine::AddStaticObject: Attempt to add object of undefined type
+[Warning] I3DEngine::AddStaticObject: Attempt to add object of undefined type
+[Warning] I3DEngine::AddStaticObject: Attempt to add object of undefined type
+Undo (Undo:50,Redo:1)
+Undo (Undo:49,Redo:2)
+[Warning] I3DEngine::AddStaticObject: Attempt to add object of undefined type
+Undo (Undo:49,Redo:1)
+[Warning] I3DEngine::AddStaticObject: Attempt to add object of undefined type
+Undo (Undo:49,Redo:1)
+[Warning] I3DEngine::AddStaticObject: Attempt to add object of undefined type
+[Warning] I3DEngine::AddStaticObject: Attempt to add object of undefined type
+[Warning] I3DEngine::AddStaticObject: Attempt to add object of undefined type
+Undo (Undo:50,Redo:1)
+ Compile Vegetation@VegetationPS(GL2280)(RT20c0003)(LT101)(PS) (86 instructions, 14/14 constants) ... 
+ Compile Vegetation@VegetationPS(GL2280)(RT20c0402)(LT1)(PS) (81 instructions, 17/18 constants) ... 
+ Compile Vegetation@VegetationPS(GL2280)(RT20c0403)(LT1)(PS) (71 instructions, 13/13 constants) ... 
+ Compile Vegetation@VegetationPS(GL2280)(RTc0402)(LT1)(PS) (81 instructions, 17/18 constants) ... 
+Undo (Undo:50,Redo:1)
+Undo (Undo:50,Redo:1)
+Undo (Undo:50,Redo:1)
+ Compile Illum@Common_ZPassVS(RT2c0004)(VS) (36 instructions, 3/6 constants) ... 
+ Compile Illum@Common_ZPassPS(GL82280)(RTc0004)(PS) (34 instructions, 6/7 constants) ... 
+Saving to C:\Users\Puddin\Desktop\Cryengine 3 SDK\game\Levels\Level1\Level1.cry...
+Storing View settings...
+Saving Vegetation Map...
+Storing surface types...
+Storing layer settings...
+Saving Vegetation Map...
+Storing Fog settings...
+Storing missions...Done
+1215 shader combination loaded for level game\levels\level1
+Saving pak file c:\users\puddin\desktop\cryengine 3 sdk\game\levels\level1\level1.tmp
+Level successfully saved
+Loading RGB Layer Tile: TilePos=(0, 0) MemUsage=0.0MB
+Loading RGB Layer Tile: TilePos=(1, 0) MemUsage=1.0MB
+Loading RGB Layer Tile: TilePos=(0, 1) MemUsage=2.0MB
+Undo (Undo:50,Redo:1)
+Undo (Undo:49,Redo:2)
+Undo (Undo:48,Redo:3)
+Undo (Undo:47,Redo:4)
+Undo (Undo:50,Redo:1)
+ Compile Vegetation@VegetationVS(GL400200000)(RT22c0101)(LT1)(MDV700)(VS) (121 instructions, 10/16 constants) ... 
+ Compile Illum@Common_EffectLayerPassVS(RT2000000)(MD100)(MDV100)(VS) (62 instructions, 7/15 constants) ... 
+ Compile Vegetation@VegetationVS(GL400200000)(RT20c0101)(LT1)(MDV700)(VS) (121 instructions, 14/22 constants) ... 
+Saving to C:\Users\Puddin\Desktop\Cryengine 3 SDK\game\Levels\Level1\Level1.cry...
+Storing View settings...
+Saving Vegetation Map...
+Storing surface types...
+Storing layer settings...
+Saving Vegetation Map...
+Storing Fog settings...
+Storing missions...Done
+1220 shader combination loaded for level game\levels\level1
+Saving pak file c:\users\puddin\desktop\cryengine 3 sdk\game\levels\level1\level1.tmp
+Level successfully saved
+Saving to C:\Users\Puddin\Desktop\Cryengine 3 SDK\game\Levels\Level1\Level1.cry...
+Storing View settings...
+Saving Vegetation Map...
+Storing surface types...
+Storing layer settings...
+Saving Vegetation Map...
+Storing Fog settings...
+Storing missions...Done
+1220 shader combination loaded for level game\levels\level1
+Saving pak file c:\users\puddin\desktop\cryengine 3 sdk\game\levels\level1\level1.tmp
+Level successfully saved
+[Lobby] Terminate service 0 error 4
+[Lobby] Terminate service 1 error 4
+Ending game context...
+    Destroying CActionGame instance 0000000046C4A570 (level="")
+        CCryLobbySessionHandler::OnGameShutdown(), m_userQuit=false, migrationState=0
+Ammo Pool Statistics:
+bullet: 0
+[FEATURETESTER] Unloading all feature test data
+Flushing pended shaders...
+ Compile Vegetation@VegetationVS(GL400200000)(RT4020c0101)(LT1)(MDV600)(VS) (91 instructions, 12/20 constants) ... 
+ Compile Vegetation@VegetationPS(GL200000)(RT4020c0503)(LT1)(PS) (18 instructions, 8/8 constants) ... 
+Finished flushing pended shaders...
+System:Quit
