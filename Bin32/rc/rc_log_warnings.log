@@ -1,0 +1,7 @@
+W:  0:00 NVTT debug message: '*** CUDA driver not found.
+W:  0:00 '
+W:  0:00 NVTT debug message: 'CUDA driver not available for CUDA runtime %d
+W:  0:00 '
+-----------------------------------------------------------------
+W: 1>  0:00 C:\Users\Puddin\Desktop\Cryengine 3 SDK\game\levels\level1\protective_field_alpha.tif
+W: 1>  0:00 Auto-selecting preset 'Diffuse_lowQ' for protective_field_alpha.tif (1024 x 1024)
